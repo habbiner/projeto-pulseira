@@ -1,2 +1,3 @@
 # projeto-pulseira
-Projeto onde visa facilitar o atendimento de socorristas e evitar eventuais complicações alérgicas
+
+Este projeto consiste em um Dashboard e uma tela de consulta, nos quais as pessoas podem acessar informações de saúde por meio de um QR Code gravado em uma pulseira ou dogtag. Esses dados de saúde estão disponíveis para facilitar o atendimento da equipe de socorristas, especialmente quando a vítima está inconsciente. Isso ajuda a evitar complicações, garantindo que a equipe médica esteja ciente de eventuais alergias ou medicamentos que a vítima possa ter.
